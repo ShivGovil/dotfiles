@@ -1,0 +1,11 @@
+*
+!*/
+
+!.gitignore
+!starship.toml
+
+!nvim/**
+!kitty/**
+!tmux/**
+
+tmux/plugins/
