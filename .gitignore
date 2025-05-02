@@ -9,3 +9,6 @@
 !tmux/**
 
 tmux/plugins/
+
+.DS_Store
+*.dSYM
