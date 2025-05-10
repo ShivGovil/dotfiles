@@ -1,5 +1,5 @@
 font-size = 14
+fullscreen = true
 quit-after-last-window-closed = true
 theme = tokyonight
 background = #111118
-fullscreen = true
