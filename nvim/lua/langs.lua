@@ -5,4 +5,5 @@ return {
   "rust_analyzer",
   "gopls",
   "zls",
+  "html",
 }
